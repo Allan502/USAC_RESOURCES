@@ -1,5 +1,3 @@
-Aquí tienes una plantilla para el README de tu proyecto de Java con emojis para hacerlo más atractivo:
-
 ---
 
 # 🎮 Pac-Man Console Game
